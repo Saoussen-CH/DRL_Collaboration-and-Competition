@@ -43,7 +43,7 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 
 ## Results
 
-Plot showing the score per episode over all the episodes. The environment was solved in **402** episodes.
+Plot showing the score per episode over all the episodes. The environment was solved in **745** episodes.
 
 Deep Q-Network
 
