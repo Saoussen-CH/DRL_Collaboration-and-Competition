@@ -41,4 +41,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agents!  
 
+## Results
 
+Plot showing the score per episode over all the episodes. The environment was solved in **402** episodes.
+
+Deep Q-Network
+
+ ![dqn-scores](https://github.com/Saoussen-CH/DRL_Collaboration-and-Competition/result_v1.png) 
