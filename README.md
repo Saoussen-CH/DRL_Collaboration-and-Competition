@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is solution for the second project of the  [Udacity's Deep Reinforcement Learning Nanodegree (Facebook PyTorch Nanodegree Scholarship Phase 3)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). For this project we will use Multi-Agent Deep Reinforcement Learning two agents control rackets to bounce a ball over a net.
+This project is solution for the third project of the  [Udacity's Deep Reinforcement Learning Nanodegree (Facebook PyTorch Nanodegree Scholarship Phase 3)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). For this project we will use Multi-Agent Deep Reinforcement Learning two agents control rackets to bounce a ball over a net.
 
 ## Introduction
 
